@@ -43,5 +43,10 @@ namespace My_Second_Interface
         {
 
         }
+
+        private void toolTip1_Popup(object sender, PopupEventArgs e)
+        {
+
+        }
     }
 }
